@@ -19,9 +19,8 @@ Imports:
 Suggests:
     testthat,
 	roxygen2
-SystemRequirements: GDAL (>=1.10)
 LinkingTo: Rcpp
-Collate:
+Collate: 
     'RcppExports.R'
     'pkg.R'
     'defs.R'
@@ -32,4 +31,3 @@ Collate:
     'ogr_public.R'
     'srs.R'
     'utils.R'
-RoxygenNote: 5.0.1
