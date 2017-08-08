@@ -1,7 +1,0 @@
-#ifndef PKG_CONFIG_H
-#define PKG_CONFIG_H
-
-#define SIZEOF_INT @SIZEOF_INT@
-#define SIZEOF_DOUBLE @SIZEOF_DOUBLE@
-
-#endif /* PKG_CONFIG_H */
